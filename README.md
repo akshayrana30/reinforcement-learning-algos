@@ -7,6 +7,9 @@ Repo for RL Algorithms on Gym and Custom environments.
     * E-Greedy
     * Greedy
 
+* Policy Iteration Vs Value Iteration
+    * Frozen Lake
+    * Taxi
 
 
     
