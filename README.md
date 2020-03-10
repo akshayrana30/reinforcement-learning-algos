@@ -9,10 +9,10 @@ Repo for RL Algorithms on Gym and Custom environments.
 
 * Policy Iteration Vs Value Iteration
     * Frozen Lake
-    * Taxi
+    * [Taxi](https://colab.research.google.com/drive/1LuxGXJTFIgU3aqBVXjx6zED_AKO455D3#scrollTo=hWZtU3pa4Qvf)
 
 * Feature Tiling with TD-Lambda
-    * Continous Random Walk
+    * [Continous Random Walk](https://colab.research.google.com/drive/1qYVGs9YNybXadT1pI1qk0bG99fkvyuvf)
 
 
 * SARSA, Q-Learning, Expected SARSA
