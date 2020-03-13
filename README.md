@@ -11,6 +11,8 @@ Repo for RL Algorithms on Gym and Custom environments.
     * Frozen Lake
     * Taxi
 
+* Feature Tiling with TD-Lambda
+    * Continous Random Walk
 
     
     
