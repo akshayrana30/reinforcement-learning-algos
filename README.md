@@ -18,5 +18,9 @@ Repo for RL Algorithms on Gym and Custom environments.
 * SARSA, Q-Learning, Expected SARSA
     * [Cartpole](https://colab.research.google.com/drive/1OpXcjpeHtn8pAGHiu-gMOXD4YbtPQb76)
 
-    
+* Baird Triad
+    * [Implementation](https://colab.research.google.com/drive/1gpsPFM4VeGf5enfy4K4Exv1LPFbSlvRe)
+
+* Actor-Critic Vs Reinforce
+    * [Cartpole](https://colab.research.google.com/drive/1LCR6xAifg3fXRj665zT9uNeiV1IF07wf) 
     
