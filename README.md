@@ -2,10 +2,10 @@
 Repo for RL Algorithms on Gym and Custom environments.
 
 * Bandits Exploration
-    * Thompson Sampling
-    * Softmax
-    * E-Greedy
-    * Greedy
+    * [Thompson Sampling](https://colab.research.google.com/drive/1-W8I5bRlFHUhZwsovDQ6IHmXQeSpHz53)
+    * [Softmax](https://colab.research.google.com/drive/1-W8I5bRlFHUhZwsovDQ6IHmXQeSpHz53)
+    * [E-Greedy](https://colab.research.google.com/drive/1-W8I5bRlFHUhZwsovDQ6IHmXQeSpHz53)
+    * [Greedy](https://colab.research.google.com/drive/1-W8I5bRlFHUhZwsovDQ6IHmXQeSpHz53)
 
 * Policy Iteration Vs Value Iteration
     * Frozen Lake
