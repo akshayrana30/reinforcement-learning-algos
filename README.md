@@ -8,7 +8,7 @@ Repo for RL Algorithms on Gym and Custom environments.
     * [Greedy](https://colab.research.google.com/drive/1-W8I5bRlFHUhZwsovDQ6IHmXQeSpHz53)
 
 * Policy Iteration Vs Value Iteration
-    * Frozen Lake
+    * [Frozen Lake](https://colab.research.google.com/drive/1iI1GiGdu61cGSjABM2Nu23i6CCp8b0YN)
     * [Taxi](https://colab.research.google.com/drive/1LuxGXJTFIgU3aqBVXjx6zED_AKO455D3#scrollTo=hWZtU3pa4Qvf)
 
 * Feature Tiling with TD-Lambda
